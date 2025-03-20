@@ -1,2 +1,2 @@
 # portfolio
-A portfolio website for showing my skills and previous projects.
+A portfolio website for previewing skills and previous projects.
